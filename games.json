@@ -1,5 +1,5 @@
 var games = [
-	{"name": "Red Dead Redemption 2", "size": "79 GB", "image": "res://images/game01.webp", "link": "https://akirabox.to/Zvqzl7PE83aD/file","extra_link": "4GAMER","cat": ["action", "open_world", "arabic"]},
+	{"name": "Red Dead Redemption 3", "size": "79 GB", "image": "res://images/game01.webp", "link": "https://akirabox.to/Zvqzl7PE83aD/file","extra_link": "4GAMER","cat": ["action", "open_world", "arabic"]},
 	{"name": " The last of us Remastered", "size":"44 GB", "image": "res://images/game02.webp", "link": "https://vik1ngfile.site/f/cmR0yM9no1","extra_link": "4GAMER","cat": ["action", "adventure", "horror", "arabic"]},
 	{"name": " Elden Ring: shadow of the Erdtree", "size": "29 GB", "image": "res://images/game03.webp", "link": "https://vik1ngfile.site/f/zpoqJBAJTR","extra_link": "4GAMER","cat": ["action", "adventure", "open_world", "arabic", "rpg"]},
 	{"name": "Marvel’s Spider Man ", "size": "44 GB", "image": "res://images/game04.webp", "link": "https://vik1ngfile.site/f/ZnLSApkTTg","extra_link": "4GAMER","cat": ["action", "adventure", "arabic"]},
